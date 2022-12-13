@@ -14,3 +14,5 @@ Thiśis my Mobile number +8801723174264 and I am from Bangladesh.
 
 I am changed this locally.
 I am start a new journey with Javascript.
+
+Logo allignment centerd.
