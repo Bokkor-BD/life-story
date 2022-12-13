@@ -11,3 +11,4 @@ Hello,
   I have completed my MA in 2012
 
 I am changed this locally.
+I am start a new journey with Javascript.
